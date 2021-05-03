@@ -1,0 +1,15 @@
+[
+    {
+        "la_date": "Ce mardi 27 octobre 2020,",
+        "Nb_Test": 453,
+        "Nb_nouveaux_Cas": 6,
+        "Nb_Cas_Contacts": 3,
+        "Nb_Cas_Communautaires": 2,
+        "NomFichierSource": "communique n184.pdf",
+        "DateHeureExtraction": "2021-05-03",
+        "mois": "octobre",
+        "Nb_Deces": 1,
+        "Nb_Gueris": 121,
+        "Ouakam": 2
+    }
+]

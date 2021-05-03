@@ -1,0 +1,16 @@
+[
+    {
+        "la_date": "Ce lundi 09 novembre 2020,",
+        "Nb_Test": 544,
+        "Nb_nouveaux_Cas": 3,
+        "Nb_Cas_Contacts": 2,
+        "Nb_Cas_Communautaires": 1,
+        "NomFichierSource": "communique n170.pdf",
+        "DateHeureExtraction": "2021-05-03",
+        "mois": "novembre",
+        "Nb_Deces": 1,
+        "Nb_Gueris": 13,
+        "Rufisque": 1,
+        "Dakar": 14
+    }
+]

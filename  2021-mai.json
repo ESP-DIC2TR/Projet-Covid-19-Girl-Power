@@ -1,0 +1,29 @@
+[
+    {
+        "la_date": "Ce Samedi 1° Mai 2021,",
+        "Nb_Test": 1552,
+        "Nb_nouveaux_Cas": 44,
+        "Nb_Cas_Contacts": 9,
+        "Nb_Cas_Communautaires": 35,
+        "NomFichierSource": "communique n1.pdf",
+        "DateHeureExtraction": "2021-05-03",
+        "mois": "Mai",
+        "Guédiawaye": 1,
+        "Almadies": 1,
+        "Plateau": 3,
+        "Colobane": 1,
+        "Médina": 1,
+        "Grand-Dakar": 1,
+        "HLM": 2,
+        "Ouakam": 1,
+        "Ngor": 2,
+        "Yoff": 2,
+        "Grand-Yoff": 2,
+        "Parcelles Assainies": 1,
+        "Saly": 1,
+        "Kaolack": 1,
+        "Kédougou": 1,
+        "Matam": 3,
+        "Dakar": 58
+    }
+]
